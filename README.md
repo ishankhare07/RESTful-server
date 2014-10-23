@@ -11,10 +11,11 @@ python REST API based server code accepting and experimental form
 ## What's included :
 
  	index.html:
-   	file containing the basic form layout  
-    
-  	server.py:
-    	file containing the server side python code (requires tornado http server, refer [here](http://www.tornadoweb.org))
+ 	file containing the basic form layout  
+  
+	server.py:
+	file containing the server side python code (requires tornado http server)
+for tornado refer [here](http://www.tornadoweb.org)
 
 
 ## How to run :
@@ -32,4 +33,4 @@ python REST API based server code accepting and experimental form
     * the request received by server is printed in the terminal
     
 ##FAQ's :
->Create and issue and ask a question, doubt or point and error
+>Create and issue an ask a question, doubt or point and error
