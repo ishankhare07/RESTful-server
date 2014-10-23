@@ -1,7 +1,7 @@
 RESTful-server
 ==============
 
-python REST API based server code accepting and experimental form
+python REST API based server code accepting an experimental form
 
 
 ## Requirements :  
