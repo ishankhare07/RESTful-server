@@ -17,4 +17,5 @@ app = tornado.web.Application([
 
 server = tornado.httpserver.HTTPServer(app)
 server.listen(8000)
+print 'server listening on localhost port 8000 ...'
 tornado.ioloop.IOLoop().instance().start()
