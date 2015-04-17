@@ -33,4 +33,4 @@ for tornado refer [here](http://www.tornadoweb.org)
     * the request received by server is printed in the terminal
     
 ##FAQ's :
->Create an issue and ask a question, doubt or point and error
+>Create an issue and ask a question, doubt or point an error
